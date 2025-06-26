@@ -50,10 +50,8 @@ A Simple weather application built with React.js and Material-UI that displays c
    ```
 
 ## 🌐 Live Demo
-[View deployed version on Vercel]() 
+[View deployed version on Vercel](https://react-weather-app-eight-smoky.vercel.app/) 
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 - OpenWeatherMap for their free API tier
