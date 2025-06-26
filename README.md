@@ -1,6 +1,6 @@
 # 🌦️ Weather App by Gagan
 
-A responsive weather application built with React.js and Material-UI that displays current weather conditions for cities worldwide.
+A Simple weather application built with React.js and Material-UI that displays current weather conditions for cities worldwide.
 
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/5dc44b24-8485-49cb-b9ea-43349793b915" />
 
